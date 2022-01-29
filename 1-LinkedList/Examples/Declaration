@@ -1,9 +1,9 @@
 Here are examples for linked lists.
 
-StudentRegistrationApp ---> SinglyLinkedLinearList
+StudentRegistrationApp ----> SinglyLinkedLinearList
 
-AutoGalleryApp ---> SinglyLinkedCircularList
+AutoGalleryApp ----> SinglyLinkedCircularList
 
-CustomerRegistrationApp ---> DoublyLinkedLinearList
+CustomerRegistrationApp ----> DoublyLinkedLinearList
 
-ParkingApp ---> DoublyLinkedCircularList
+ParkingApp ----> DoublyLinkedCircularList
