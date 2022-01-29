@@ -1,4 +1,3 @@
-# DataStructes
 # Data Structes and Algorithms
 
 ## 1 - Linked List
