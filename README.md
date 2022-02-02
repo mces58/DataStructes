@@ -11,3 +11,8 @@
 
 ***- Array implementation of stack*** <br/>
 ***- Linked list implementation of stack*** <br/>
+
+## 3 - Queue
+
+***- Array implementation of queue*** <br/>
+***- Linked list implementation of queue*** <br/>
