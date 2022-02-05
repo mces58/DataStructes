@@ -16,3 +16,10 @@
 
 ***- Array implementation of queue*** <br/>
 ***- Linked list implementation of queue*** <br/>
+
+## 4 - Tree
+
+***- Binary search tree (BST)*** <br/>
+***- AVL tree*** <br/>
+***- Splay tree*** <br/>
+***- Heap*** <br/>
