@@ -23,3 +23,27 @@
 ***- AVL tree*** <br/>
 ***- Splay tree*** <br/>
 ***- Heap*** <br/>
+
+## 5 - Searching
+
+***- Binary search*** <br/>
+***- Exponential search*** <br/>
+***- Jump search*** <br/>
+***- Linear search*** <br/>
+***- Ternary search*** <br/>
+
+## 6 - Sorting
+
+***- Bubble sort*** <br/>
+***- Bucket sort*** <br/>
+***- Cocktail sort*** <br/>
+***- Comb sort*** <br/>
+***- Gnome sort*** <br/>
+***- Heap sort*** <br/>
+***- Insertion sort*** <br/>
+***- Merge sort*** <br/>
+***- Pancake sort*** <br/>
+***- Quick sort*** <br/>
+***- Selection sort*** <br/>
+***- Shell sort*** <br/>
+***- Stooge sort*** <br/>
