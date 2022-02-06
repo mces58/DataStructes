@@ -1,5 +1,7 @@
 # Data Structes and Algorithms
 
+### **This repository contains all the data structures and their application in Java.**
+
 ## 1 - Linked List
 
 ***- Singly linked linear list*** <br/>
@@ -47,3 +49,4 @@
 ***- Selection sort*** <br/>
 ***- Shell sort*** <br/>
 ***- Stooge sort*** <br/>
+
